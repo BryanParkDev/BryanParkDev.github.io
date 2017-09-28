@@ -3,9 +3,9 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Vulmass's Blog
-paginate:       5
+paginate:       8
 baseurl:        ""
-url:            "https://vulmass.github.io/tale"
+url:            "https://vulmass.github.io/vulmass.github.io"
 
 # Assets
 sass:
@@ -22,9 +22,9 @@ author:
   email:        nfspark@gmail.com
 
 # Custom vars
-version:        3.6.0
-github:         https://github.com/Vulmass 
-repo:         https://github.com/Vulmass/tale.git
+version:        1.0.0
+github:         https://github.com/Vulmass
+repo:         https://github.com/Vulmass/vulmass.github.io.git
 
 # Gems
 gems:
