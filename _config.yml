@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Vulmass's Blog
 paginate:       5
 baseurl:        ""
-url:            "vulmass.github.io"
+url:            ""
 
 # Assets
 sass:
