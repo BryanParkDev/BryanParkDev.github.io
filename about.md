@@ -2,7 +2,7 @@
 layout: post
 title: "About Vulmass"
 author: "Vulmass"
-permalink: /about/
+permalink: /about
 ---
 ### Welcome to my realm
 #### Something's cookin'
