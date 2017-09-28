@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Vulmass's Blog
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://vulmass.github.io/tale"
 
 # Assets
 sass:
@@ -17,14 +17,14 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Vulmass
+  url:          vulmass.github.io
+  email:        nfspark@gmail.com
 
 # Custom vars
-version:        3.4.1
-github:
-  repo:         https://github.com/chesterhow/tale
+version:        3.6.0
+github:         https://github.com/Vulmass 
+repo:         https://github.com/Vulmass/tale.git
 
 # Gems
 gems:
