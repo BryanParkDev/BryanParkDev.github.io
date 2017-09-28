@@ -4,8 +4,8 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Vulmass's Blog
 paginate:       8
-baseurl:        ""
-url:            "https://vulmass.github.io/vulmass.github.io"
+baseurl:        "https://vulmass.github.io"
+url:            "https://vulmass.github.io"
 
 # Assets
 sass:
