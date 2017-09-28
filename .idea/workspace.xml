@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0f0264-3d9b-4a88-ba82-c0c77d19b456" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,7 +43,9 @@
             <state relative-caret-position="1311">
               <caret line="78" column="74" lean-forward="false" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
               <folding>
-                <element signature="e#1736#1742#0" expanded="true" />
+                <marker date="1506616952028" expanded="true" signature="1796:1926" ph="..." />
+                <marker date="1506616952028" expanded="true" signature="1796:1940" ph="..." />
+                <marker date="1506616952028" expanded="true" signature="1796:1950" ph="..." />
               </folding>
             </state>
           </provider>
@@ -55,8 +58,9 @@
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#177#185#0" expanded="true" />
-                <element signature="e#781#787#0" expanded="true" />
-                <element signature="e#1281#1287#0" expanded="true" />
+                <marker date="1506616952022" expanded="true" signature="1341:1471" ph="..." />
+                <marker date="1506616952022" expanded="true" signature="1341:1485" ph="..." />
+                <marker date="1506616952022" expanded="true" signature="1341:1495" ph="..." />
               </folding>
             </state>
           </provider>
@@ -105,8 +109,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="380">
+              <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -211,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506613687059</updated>
       <workItem from="1506613688257" duration="274000" />
-      <workItem from="1506614150425" duration="2403000" />
+      <workItem from="1506614150425" duration="2852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2677000" />
+    <option name="totallyTimeSpent" value="3126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -401,8 +405,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#177#185#0" expanded="true" />
-            <element signature="e#781#787#0" expanded="true" />
-            <element signature="e#1281#1287#0" expanded="true" />
+            <marker date="1506616952022" expanded="true" signature="1341:1471" ph="..." />
+            <marker date="1506616952022" expanded="true" signature="1341:1485" ph="..." />
+            <marker date="1506616952022" expanded="true" signature="1341:1495" ph="..." />
           </folding>
         </state>
       </provider>
@@ -420,7 +425,9 @@
         <state relative-caret-position="1311">
           <caret line="78" column="74" lean-forward="false" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
           <folding>
-            <element signature="e#1736#1742#0" expanded="true" />
+            <marker date="1506616952028" expanded="true" signature="1796:1926" ph="..." />
+            <marker date="1506616952028" expanded="true" signature="1796:1940" ph="..." />
+            <marker date="1506616952028" expanded="true" signature="1796:1950" ph="..." />
           </folding>
         </state>
       </provider>
@@ -451,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="380">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding />
         </state>
       </provider>

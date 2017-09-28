@@ -3,9 +3,9 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Vulmass's Blog
-paginate:       8
-baseurl:        "https://vulmass.github.io"
-url:            "https://vulmass.github.io"
+paginate:       5
+baseurl:        ""
+url:            "vulmass.github.io"
 
 # Assets
 sass:
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Vulmass
-  url:          vulmass.github.io
+  url:          about.md
   email:        nfspark@gmail.com
 
 # Custom vars
