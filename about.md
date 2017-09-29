@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "About Vulmass"
-author: "Vulmass"
-permalink: /about
+title: "About & Contact"
+author: "Bryan Park"
+permalink: /about/
 ---
-### Welcome to my realm
-#### Something's cookin'
-* Check my [**Github**](https://github.com/vulmass)
-* Contact me via mail : nfspark@gmail.com
+
+## Bryan Park - Seoul, Republic of Korea
+### Software Developer , Sound Artist, Cook
+
+* Check my [**Github**](https://github.com/BryanParkDev)
+
+* Ask me anything by mail : _**<nfspark@gmail.com>**_
+
+* Tel : **+821073661343**

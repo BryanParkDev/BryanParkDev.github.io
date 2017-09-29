@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Vulmass's Blog
+title:          Bryan Park
 paginate:       5
 baseurl:        ""
 url:            ""
@@ -17,14 +17,14 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Vulmass
+  name:         Bryan Park
   url:          
   email:        nfspark@gmail.com
 
 # Custom vars
-version:        1.0.0
-github:         https://github.com/Vulmass
-repo:         https://github.com/Vulmass/vulmass.github.io.git
+version:        1.0.1
+github:         https://github.com/BryanParkDev
+repo:         https://github.com/BryanParkDev
 
 # Gems
 gems:
